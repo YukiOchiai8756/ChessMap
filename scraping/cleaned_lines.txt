@@ -1,0 +1,189 @@
+Aachen Gambit of the Nimzowitsch Defense 1.e4 Nc6 2.d4 d5 3.exd5 Nb4
+Abbazia Defense of the King's Gambit 1.e4 e5 2.f4 exf4 3.Nf3 d5[2]
+American Gambit of the Dutch Defense 1.d4 f5 2.e4 fxe4 3.Nd2
+Adelaide Counter-Gambit of the King's Gambit 1.e4 e5 2.f4 Nc6 3.Nf3 f5
+Amsterdam Variation of the Sicilian Defence, Dragon Variation 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Qd2
+Arkhangelsk Defense (or Archangel Defense) of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 b5 6.Bb3 Bb7
+Argentine Gambit of the Baltic Defense 1.d4 d5 2.c4 Bf5 3.cxd5 Bxb1 4.Qa4+ c6 5.dxc6 Nxc6
+Argentine Variation of the Cambridge Springs Defense 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Nd2 Bb4 8.Qc2 0-0 9.Bh4
+Armenian Variation of the French Defence 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5
+Australian Gambit of the King's Gambit 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.h4
+Austrian Attack in the Pirc Defense 1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4
+Austrian Defense of the Queen's Gambit Declined 1.d4 d5 2.c4 c5
+Baltic Defense 1.d4 d5 2.c4 Bf5 (named for the Baltic countries)
+Baltic Opening (or Dunst Opening) 1.Nc3
+Basque Gambit of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d4 exd4 7.e5 Ne4 8.c3
+Basque Opening 1.d4 Nf6 2.b3
+Battambang Opening 1. Nc3 e5 2. a3
+Bavarian Gambit 1.e4 e5 2.c4 d5
+Belgrade Gambit 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5!?
+Benelux Variation of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 Nf6 5.0-0 0-0 6.d4 Bb6 (named for the Benelux countries)
+Berlin Variation of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6
+Beverwijk Variation of the Ruy Lopez (Berlin Variation)  1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.0-0 Bc5
+Birmingham Defence (more commonly as the St. George Defence): 1. e4 a6
+Birmingham Gambit 1.b4 c5
+Brazilian Defense 1.e4 e5 2.Nf3 Qe7!?
+Bremen Variation of the English Opening 1.c4 e5 2.Nc3 Nf6 3.g3
+Breslau Variation of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.c3 Be7 10.Re1 O-O 11.Nd4 Nxe5
+Brooklyn Defense of the Alekhine's Defence 1.e4 Nf6 2.e5 Ng8
+Brussels Gambit of the Sicilian Defence 1.e4 c5 2.Nf3 f5
+Budapest Gambit 1.d4 Nf6 2.c4 e5
+Bulgarian Variation of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 a5
+Calabrian Countergambit of the Bishop's Opening 1.e4 e5 2.Bc4 f5
+Cambridge Gambit of the Alekhine's Defence 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 g5
+Cambridge Springs Variation of the Queen's Gambit Declined 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.Nf3 c6 6.e3 Qa5
+Carlsbad Variation of the Slav Defense 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Qc7 8.g3 e5
+Catalan Opening 1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2
+Chelyabinsk Variation of the Sicilian Defence 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+Chicago Gambit (or Irish Gambit) 1.e4 e5 2.Nf3 Nc6 3.Nxe5?
+Chicago Defense to the Smith-Morra Gambit against the Sicilian Defence 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 e6 5.Nf3 d6 6.Bc4 a6 7.0-0 b5 8.Bb3 Nc6 9.Qe2 Be7 10.Rd1 Ra7[3]
+Chinese Variation of the Pirc Defense 1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be2 Bg7 5.g4!?
+Chinese Variation of the Sicilian Defence, Dragon Variation 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 0-0 8.Qd2 Nc6 9.Bc4 Bd7 10.0-0-0 Rb8
+Clarendon Court Variation of the Benoni Defense 1.d4 c5 2.d5 f5
+Cologne Gambit of the Ware Opening 1.a4 b6 2.d4 d5 2.Nc3 Nd7
+Colorado Defense of the Nimzowitsch Defense 1.e4 Nc6 2.Nf3 f5
+Copenhagen Defense of the Danish Gambit 1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2 Bb4+
+Cracow Variation of the Italian Game 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+ 7.Kf1?!
+Czech Defence The term used by Siegbert Tarrasch for the Slav Defense, 1.d4 d5 2.c4 c6[4]
+Czech Defence (Pribyl System) of the Pirc Defence 1.e4 d6 2.d4 Nf6 3.Nc3 c6
+Czech Variation Slav Defense 1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 Bf5 Slav Defense: Modern, Alapin Variation, Czech Variation
+Czech Defence of the Polish opening 1. b4 e5 2. Bb2 d6
+Czech Variation of the Benoni Defense 1. d4 Nf6 2. c4 c5 3. d5 e5
+Czech-Indian Variation of the Indian Game 1.d4 Nf6 2.Nf3 c6
+Czech Variation of the Old Indian Defence 1.d4 Nf6 2.c4 d6 3.Nc3 c6
+Danish Gambit 1.e4 e5 2.d4 exd4 3.c3
+Danube Gambit 1.d4 Nf6 2.c4 g6 3.d5 b5 4.cxb5 a6 5.bxa6 c6
+Dresden Opening 1.e4 e5 2.Nf3 Nc6 3.c4
+Duisburg Gambit of the QGD 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4
+Dutch Defense 1.d4 f5
+Dutch Variation of the Slav Defense 1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 Bf5 6.e3
+Edinburgh Variation of the Caro-Kann Defence 1.e4 c6 2.d4 d5 3. Nd2 Qb6
+English Attack of the Sicilian Defence, Najdorf Variation 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 and 7.f3
+English Defense 1.d4 e6 2.c4 b6
+English Opening 1.c4
+Finnish Variation of the Caro-Kann Defence 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 h6
+Florentine Gambit of the King's Indian Defence 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 0-0 6.Be2 c5 7.d5 e6 8.Nf3 exd5 9.e5
+Fort Knox Variation of the French Defence 1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6
+Franco-Benoni 1.e4 e6 2.d4 c5
+Frankfurt Variation of the French Defence 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ng8 6. Be3 b6
+French Defence 1.e4 e6
+Genoa Opening (known as Grob's Attack): 1. g4
+Gent Gambit of the Amar Opening (Paris) 1. Nh3 d5 2. g3 e5 3. f4 Bxh3 4. Bxh3 exf4 5. O-O fxg3 6. hxg3
+German Defense of the Polish Sokolsky Opening 1. b4 d5 2. Bb2 Qd6 3. a3 e5 4. Nf3 e4 5. Nd4 Nf6 6. c4! dxc4 7. e3 Be7 8. Bxc4 O-O 9. Nc3
+Glasgow Kiss Variation of the Slav Defense 1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 Bf5 5.cxd5 cxd5 6.Qb3 Nc6
+Gothenburg Variation of the Sicilian Defence, Najdorf Variation 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 h6 9.Bh4 g5
+Greek Defense (or Owen's Defense) 1.e4 b6
+Guatemala Defence of Owen's Defence 1.e4 b6 2.d4 Ba6
+Hastings Variation of the Queen's Gambit Declined 1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 h6 5.Bxf6 Qxf6 8.Nc3 c6 7.Qb3
+Hungarian Attack: a system popularised by the Hungarian GM Forintos and characterised by an early Nge2 against the King's Indian Defense.
+Hungarian Defense 1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7
+Hungarian Opening (or Benko's Opening) 1. g3
+Hungarian Variation of the Sicilian Defence 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4
+Icelandic Gambit 1.e4 d5 2.exd5 Nf6 3.c4 e6!?
+Indian Defenses: a complex of chess openings beginning 1.d4 Nf6, including the Nimzo-Indian Defense, Queen's Indian Defense, King's Indian Defense, Bogo-Indian Defense, Old Indian Defense, Janowski Indian Defense, etc.
+Inverted Hungarian Opening 1.e4 e5 2.Nf3 Nc6 3.Be2
+Irish Gambit (or Chicago Gambit) 1.e4 e5 2.Nf3 Nc6 3.Nxe5?
+Israeli Gambit (or Halasz Gambit) 1.e4 e5 2.d4 exd4 3.f4
+Italian Gambit 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d4?!
+Italian Game 1.e4 e5 2.Nf3 Nc6 3.Bc4 (Bc5)
+Jalalabad Defense 1.e4 e5 2.Nf3 c5, or 1.e4 c5 2.Nf3 e5
+Kentucky Opening 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Bxf7+? Kxf7 5.Nxe5+ Nxe5
+Kiel Variation of the Scandinavian Defense 1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.c4 Nb4
+Leipzig Gambit (or Müller-Schulze Gambit) 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5?!
+Lemberger Gambit (Lvov Gambit) 1.Nf3 Nf6 2.e4 or 1.Nf3 d5 2.e4
+Latvian Gambit 1.e4 e5 2.Nf3 f5
+Leningrad Variation of the Dutch Defense 1.d4 f5 2.g3 g6
+Lisbon Gambit 1.d4 d6 2.c4 e5 3.dxe5 Nc6
+Lithuanian Variation of the Mikėnas Defense 1.d4 Nc6 2.c4 e5 3.d5 Nce7
+Lodz Variation of the Tarrasch Defense 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3
+London System, a set of related chess openings characterized by 1.d4 followed by an early Bf4, e.g. 1.d4 d5 2.Nf3 Nf6 3.Bf4; 1.d4 Nf6 2.Nf3 e6 3.Bf4; and 1.d4 Nf6 2.Nf3 g6 3.Bf4
+Maltese Falcon Attack (or Gibbins-Wiedehagen Gambit) 1.d4 Nf6 2.g4 Nxg4 3.f3 Nf6 4.e4
+Manhattan Gambit of the Dutch Defense 1.d4 f5 2.Qd3 Nf6 3.g4
+Manhattan Variation of the QGD (also called the Westphalia Defense) 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.Nf3 Bb4 or 5.e3 Bb4
+Mannheim Variation of the QGA 1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.Qa4+
+Mar del Plata Variation of the King's Indian Defence 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 0–0 6. Be2 e5 7. 0–0 Nc6 8. d5 Ne7
+Margate Variation of the Sicilian Defence 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Bb5
+Marienbad Variation of the Sicilian Defence 1.e4 c5 2.b4 cxb4 3.a3 d5 4.exd5 Qxd5 5.Bb2
+Massachusetts Defense of the Caro-Kann Defence 1.e4 c6 2.d4 f5
+Mediterranean Defense 1.e4 e6 2.d4 Nf6
+Meran Variation of the Semi-Slav Defense 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4
+Mexican Defense 1.d4 Nf6 2.c4 Nc6
+Miami Variation of the Italian Gambit 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d4 Bxd4 5.Nxd4 Nxd4 6.Be3
+Montevideo Defense 1.d4 Nc6 2.d5 Nb8
+Modern Archangel Defense of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 b5 6.Bb3 Bc5
+Moscow Variation of the Semi-Slav Defense 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nf3 e6 5.Bg5 h6
+Moscow Variation of the Sicilian Defence 1.e4 c5 2.Nf3 d6 3.Bb5+
+New Castle Gambit of the (French Defense Tarrasch variation) 1.e4 e6 2.d4 d5 3.Nd2 e5
+Nordic Gambit 1.e4 e5 2.d4 exd4 3.c3 (alternative name for the Danish Gambit)
+North Sea Variation of the Modern Defense 1.e4 g6 2.d4 Nf6 3.e5 Nh5
+Norwegian Defense 1.e4 g6 2.d4 Nf6, intending 3.e5 Nh5!? and if 4.g4!?, Ng7
+Norwegian Defense of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Na5
+Norwegian Gambit 1.e4 e5 2.d4 exd4 3.c3 (alternative name for the Danish Gambit)
+Nottingham Variation of the Sicilian Defence, Dragon Variation 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Nb3
+Novosibirsk Variation of the Dunst Opening 1.Nc3 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qh4
+Novosibirsk Variation of the Sicilian Defense 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 Bg7
+Nuremberg Variation of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 f6
+Oxford Gambit of the Four Knights Game 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 Bb4 5.d5 Nd4
+Oxford Variation of the Vienna Game 1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.d3
+Paris Defence (or Semi-Italian Opening) 1.e4 e5 2.Nf3 Nc6 3.Bc4 d6
+Paris Gambit 1.Nh3 d5 2.g3 e5 3.f4!? (intending 3...Bxh3 4.Bxh3 exf4 5.0-0)
+Paris Opening (or Amar Opening) 1.Nh3
+Peruvian Variation of the Queen's Gambit Declined 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5
+Podebrady Variation of the Sicilian Defence 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nb3
+Polish Defense 1.d4 b5 or 1.Nf3 Nf6 2.g3 b5
+Polish Gambit 1. e4 b5?! 2. Bxb5 c6
+Polish Opening (or Orangutan) 1.b4
+Portuguese Gambit of the Scandinavian Defense 1.e4 d5 2.exd5 Nf6 3.d4 Bg4 4.f3 Bf5 5.Bb5+ Nbd7
+Portuguese Opening 1.e4 e5 2.Bb5
+Prague Variation of the Tarrasch Defense 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6
+Prussian Game (or Two Knights Defense) 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6
+Riga Variation of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 Nxe4 6.d4 exd4
+Rio de Janeiro Variation of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7
+Romanian Opening (or Dunst Opening) 1.Nc3
+Russian Defense of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 d6
+Russian Game (or Petrov's Defense) 1.e4 e5 2.Nf3 Nf6
+San Francisco Gambit of the Sicilian Defence 1.e4 c5 2.Nf3 Nc6 3.Bb5 Na5 4.b4
+Saragossa Opening 1.c3
+Scandinavian Defense 1.e4 d5
+Scheveningen Variation of the Sicilian Defence 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6
+Scotch Four Knights Game 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4
+Scotch Gambit 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4
+Scotch Game 1.e4 e5 2.Nf3 Nc6 3.d4
+Semi-Slav Defense 1.d4 d5 2.c4 c6 3.Nc3 (or 3.Nf3) e6
+Semmering Variation of the Semi-Slav Defense 1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6 5.Nbd2 Nbd7 6.Bd3 c5
+Seville Variation of the Grünfeld Defence 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6 9.Be3 O-O 10.O-O Bg4 11.f3 Na5 12.Bxf7+
+Siberian Attack of the Indian Defence 1.d4 Nf6 2.Qd3 d5 3.Nc3
+Siberian Trap in the Smith-Morra Gambit against the Sicilian Defence 1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 e6 6.Bc4 Qc7 7.0-0 Nf6 8.Qe2 Ng4! 9.h3?? (or 9.Bb3??) Nd4![5]
+Sicilian Defence 1.e4 c5
+Slav Defense 1.d4 d5 2.c4 c6
+Spanish Game (or Ruy Lopez) 1.e4 e5 2.Nf3 Nc6 3.Bb5
+Stockholm Variation of the Grünfeld Defence 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5
+St. Petersburg Variation of the Ruy Lopez 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.c3 Bc5 10.Nbd2
+Swedish Variation of the QGD, Tarrasch Defense 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 c4
+Swiss Gambit of the Bird's Opening 1.f4 f5 2.e4!?
+Swiss Variation of the French Defence 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bd3
+Tashkent Attack of the King's Gambit 1.e4 e5 2.f4 exf4 3.Nf3 Nf6 4.e5 Nh5 5.g4
+Tübingen Gambit of the Dunst Opening 1.Nc3 Nf6 2.g4
+Ukrainian Variation of the Old Indian Defense 1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3
+Valencia Opening (or Mieses Opening) 1.d3 e5 2.Nd2
+Venezolana Variation of the Mieses Opening 1.d3 c5 2.Nc3 Nc6 3.g3
+Venice Attack of the Sicilian Defence 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Bb5+ or 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Bb5+
+Venice Variation of the Queen's Gambit Declined 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5 5.cxd5 Qb6
+Vienna Game 1.e4 e5 2.Nc3
+Vienna Variation of the Queen's Gambit Declined 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Bb4 5. Bg5 dxc4 6. e4
+Vinohrady Variation of the Sicilian Defence 1.e4 c5 2.Nc3 Nc6 3.g4 named after a district in Prague[6]
+Volga Gambit 1.d4 Nf6 2.c4 c5 3.d5 b5 (named for the Volga River, the national river of Russia)
+Voronezh Variation of the Alekhine's Defence 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.exd6 cxd6 6.Nc3 g6 7.Be3 Bg7 8.Rc1 0-0 9.b3
+Warsaw Variation of the Dutch Defense 1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 c6
+Westphalia Defense in the Queen's Gambit Declined: An alternative name for the Manhattan Variation, 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.Nf3 Bb4 or 5.e3 c5
+Wiesbaden Variation of the Slav Defense 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6
+Wilkes-Barre Variation of the Two Knights Defense 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5!?
+Yerevan System of the Sicilian Defence 1.e4 c5 2.Nf3 a6 3.Nc3
+Yugoslav Attack in the Sicilian Defence, Dragon Variation 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3
+Yugoslav Defense (or Pirc Defense) 1.e4 d6 2.d4 Nf6 3.Nc3 g6
+Yugoslav Variation of the King's Indian Defence 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 0-0 6.Bg2 c5
+Yugoslav Variation of the Benko Gambit 1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 g6 6.Nc3 Bxa6 7.e4 Bxf1 8.Kxf1 d6 9.Nge2
+Zagreb Variation of the Sicilian Defence, Najdorf Variation 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3
+Zaire Defense of the Queen's Knight Defense 1.d4 Nc6 2.d5 Nb8 3.e4 Nf6 4.e5 Ng8
+Zurich Gambit 1.d4 d5 2.g4
+Zurich Variation of the Nimzo-Indian Defense 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6

@@ -1,0 +1,32 @@
+.page > #backgroundImg {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-image: url("./france.jpg");
+    background-size: cover;
+    z-index: -10;
+}
+
+.page > #container {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: 35%;
+    left: 5%;
+}
+
+.page > #moveList {
+    position: absolute;
+    top: 35%;
+    right:5%;
+    color: white;
+    height: 400px;
+    overflow-y: scroll;
+}
+
+.page > #tryitButton {
+    position: absolute;
+    bottom:10px;
+    left:40%;
+    align-content: center;
+}

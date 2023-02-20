@@ -1,0 +1,17 @@
+svg {
+    stroke: #fff;
+}
+
+svg > path {
+    fill: #27521a;
+    cursor: pointer;
+    outline: none;
+}
+
+svg > path:hover {
+    fill: rgba(168,43,43,0.83);
+}
+
+svg > path:focus {
+    fill: rgba(168,43,43,0.6);
+}
